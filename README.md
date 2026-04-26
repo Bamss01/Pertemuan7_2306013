@@ -10,7 +10,7 @@ Project ini merupakan lanjutan praktikum pengembangan aplikasi mobile menggunaka
 | Keterangan | Detail |
 |------------|--------|
 | Nama Project | pertemuan7_2306013 |
-| Mata Kuliah | Pemrograman Mobile |
+| Mata Kuliah | Praktikum Pemrograman Mobile |
 | Framework | Flutter |
 | Bahasa Pemrograman | Dart |
 
