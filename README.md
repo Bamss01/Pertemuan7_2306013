@@ -59,6 +59,3 @@ flutter pub get
 ```bash
 flutter run
 ```
-## Catatan
-
-Project ini dibuat untuk keperluan praktikum dan pembelajaran.
